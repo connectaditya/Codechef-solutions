@@ -1,4 +1,4 @@
-#codechef solutions
+codechef solutions
 
 Complete CodeChef solutions in Python, Java, C, C++, Ruby, JS, Dart, C#, Perl, GO etc.. Programming is not just about learning a particular coding languages
 
